@@ -51,8 +51,8 @@
        } else {
          return 'It was a tie, you both won the same number of rounds.';
        }
-     }
-      
+     
+     } 
    
 
    console.log(game())
